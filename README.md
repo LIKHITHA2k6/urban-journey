@@ -1,2 +1,2 @@
-# urban-journey
+
 Guessing game
